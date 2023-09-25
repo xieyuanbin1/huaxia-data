@@ -1,0 +1,29 @@
+{
+  "title": {
+    "start_date": {
+      "year": -1046
+    },
+    "end_date": {
+      "year": -771
+    },
+    "text": {
+      "headline": "西周<br/> 约前1046年 - 约前771年",
+      "text": "<p>西周</p>"
+    }
+  },
+  "events": [
+    {
+      "group": "政治",
+      "text": {
+        "headline": "周武王",
+        "text": "姬发"
+      },
+      "start_date": {
+        "year": -1046
+      },
+      "end_date": {
+        "year": -1043
+      }
+    }
+  ]
+}

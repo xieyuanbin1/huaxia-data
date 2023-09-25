@@ -1,0 +1,29 @@
+{
+  "title": {
+    "start_date": {
+      "year": -1600
+    },
+    "end_date": {
+      "year": -1046
+    },
+    "text": {
+      "headline": "商<br/> 约前1600年 - 约前1046年",
+      "text": "<p>商</p>"
+    }
+  },
+  "events": [
+    {
+      "group": "政治",
+      "text": {
+        "headline": "商汤王",
+        "text": "子履"
+      },
+      "start_date": {
+        "year": -1600
+      },
+      "end_date": {
+        "year": -1587
+      }
+    }
+  ]
+}
